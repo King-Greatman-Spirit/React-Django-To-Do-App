@@ -1,0 +1,8 @@
+# misc
+.DS_Store
+
+#virtual environment
+/venv
+
+./migrations
+./__pycache__

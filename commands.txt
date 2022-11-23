@@ -1,0 +1,32 @@
+# DJANGO COMMANDS
+pip3 install --upgrade pip #pip upgrade
+python3.10 -m venv venv  #to install virtualenv
+virtualenv venv     #create virtual environment
+source venv/bin/activate #to activate virtualenv
+pip install -r requirements.txt #To install all packages in requirements.txt
+pip freeze > requirements.txt # Freeze to text requirements.txt
+
+
+django-admin start-project todo_drf .
+python manage.py startapp api
+pip install 
+pip install django django-cors-headers djangorestframework
+python manage.py runserver #To run server
+python manage.py createsuperuser #To create admin user
+
+
+# REACT COMMANDS
+npx create-react-app frontend #install react app project
+npm install  #This installs the required dependencies.
+npm install react-scripts
+npm start
+
+
+# GENERAL COMMANDS
+rm -rf api/ #to remove folder
+rm -rf src/* #to remove all directories in folder
+ls -le #display all folders wiht access
+cd .. #go back to the prev folders
+
+
+
