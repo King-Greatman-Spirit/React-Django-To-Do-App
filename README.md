@@ -1,6 +1,6 @@
 # Installation guide
 
-git clone https://github.com/King-Greatman-Spirit/React-Django-To-Do-App.git
+git clone https://github.com/King-Greatman-Spirit/React_Django_ToDo_App.git
 
 #Setup Backend
 1. cd React-Django-To-Do-App
